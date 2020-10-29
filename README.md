@@ -11,3 +11,6 @@ Based upon the weight and speed of the car, the deformation of the car is calcul
 - Any deformation between 80 and 180 is considered average.
 - Deformation below 80 is considered good.
 You have to help the CGSO by creating a simulator to collide a car sprite with a wall and calculate the damage.
+
+# Output Link:
+
